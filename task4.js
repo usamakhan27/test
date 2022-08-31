@@ -43,3 +43,4 @@ for (i = 0; i < data.length; i++) {
         console.log(data[i].name +" guess value is not match");
     }
 }
+console.log();
